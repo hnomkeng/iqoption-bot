@@ -17,8 +17,8 @@ curr_balance = 0
 
 def start(account_type,risk_management,expiration,stake,symbol,timeframe):
 
-    email = "jaeljayleen@gmail.com"
-    password = "2018$1952"
+    email = ""
+    password = ""
 
     # email = "pipsbulls@gmail.com"
     # password = "mutabvuri$8"
